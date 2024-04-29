@@ -1,4 +1,4 @@
-import NavBarPizza from "./components/NavBarPizza"
+import NavBarPizza from "./components/NavBar"
 import  {Route, Routes} from "react-router-dom"
 import Home from "./views/Home"
 import Carrito from "./views/Carrito"
